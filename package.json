@@ -1,6 +1,6 @@
 {
   "name": "google-sheet-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A programmatic inteface for Google Drive Spreadsheets",
   "main": "index.js",
   "scripts": {
