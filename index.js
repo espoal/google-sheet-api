@@ -1,7 +1,9 @@
 import google  from 'googleapis';
 
+exports.SheetApi = SheetApi;
 
-export class SheetApi {
+
+class SheetApi {
 
     // This class exposes the Google Sheet API v4
 
